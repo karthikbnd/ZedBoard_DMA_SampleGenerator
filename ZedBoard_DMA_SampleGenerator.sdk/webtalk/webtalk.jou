@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# 
+# Start of session at: Thu Oct 12 17:31:21 2017
+# Process ID: 11312
+# Current directory: C:/Users/kab/Desktop/workspace/ZedBoard_DMA_SampleGenerator/ZedBoard_DMA_SampleGenerator.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/kab/Desktop/workspace/ZedBoard_DMA_SampleGenerator/ZedBoard_DMA_SampleGenerator.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/kab/Desktop/workspace/ZedBoard_DMA_SampleGenerator/ZedBoard_DMA_SampleGenerator.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
